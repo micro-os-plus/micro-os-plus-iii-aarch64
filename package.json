@@ -1,7 +1,7 @@
 {
   "name": "@micro-os-plus/micro-os-plus-iii-aarch64",
   "version": "0.1.0",
-  "description": "A source code library with µOS++ aarch64 port",
+  "description": "A source code library with µOS++ AArch64 port",
   "main": "",
   "scripts": {
     "npm-install": "npm install",
