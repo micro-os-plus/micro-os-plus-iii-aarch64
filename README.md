@@ -1,2 +1,2 @@
-# micro-os-plus-iii-aarch64
-A source code library with µOS++ AArch64 port
+This project does not use the `master` branch, please
+switch to the `xpack` branch to access the project files.
